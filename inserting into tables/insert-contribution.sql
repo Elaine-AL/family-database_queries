@@ -1,0 +1,14 @@
+INSERT INTO ilayn_.contribution (idcontribution, idFam, amount) VALUES (1, 2, 3000);
+INSERT INTO ilayn_.contribution (idcontribution, amount) VALUES (2, 3000);
+INSERT INTO ilayn_.contribution (idcontribution, idFam, amount) VALUES (3, 6, 400);
+INSERT INTO ilayn_.contribution (idcontribution, idFam, amount) VALUES (4, 1, 33000);
+INSERT INTO ilayn_.contribution (idcontribution, idFam, amount) VALUES (5, 3, 4550);
+INSERT INTO ilayn_.contribution (idcontribution, idFam, amount) VALUES (6, 5, 700);
+INSERT INTO ilayn_.contribution (idcontribution, idFam, amount) VALUES (7, 6, 60);
+INSERT INTO ilayn_.contribution (idcontribution, idFam, amount) VALUES (8, 4, 650);
+INSERT INTO ilayn_.contribution (idcontribution, amount) VALUES (9, 600);
+INSERT INTO ilayn_.contribution (idcontribution, amount) VALUES (10, 200);
+INSERT INTO ilayn_.contribution (idcontribution, amount) VALUES (11, 100);
+INSERT INTO ilayn_.contribution (idcontribution, amount) VALUES (12, 320);
+INSERT INTO ilayn_.contribution (idcontribution, idFam, amount) VALUES (13, 3, 500);
+INSERT INTO ilayn_.contribution (idcontribution, amount) VALUES (14, 420);
